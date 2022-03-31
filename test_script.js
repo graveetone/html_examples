@@ -1,0 +1,1 @@
+alert("Some jS from external file");
